@@ -1,0 +1,6 @@
+@LoginPage_ChatApp__HostAddress = http://localhost:5257
+
+GET {{LoginPage_ChatApp__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

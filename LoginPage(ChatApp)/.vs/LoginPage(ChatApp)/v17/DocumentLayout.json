@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sgoku\\source\\repos\\LoginPage(ChatApp)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17448041-CDF2-4B8D-9906-921E78C44065}|LoginPage(ChatApp)\\LoginPage(ChatApp).csproj|c:\\users\\sgoku\\source\\repos\\loginpage(chatapp)\\loginpage(chatapp)\\controllers\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17448041-CDF2-4B8D-9906-921E78C44065}|LoginPage(ChatApp)\\LoginPage(ChatApp).csproj|solutionrelative:loginpage(chatapp)\\controllers\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17448041-CDF2-4B8D-9906-921E78C44065}|LoginPage(ChatApp)\\LoginPage(ChatApp).csproj|c:\\users\\sgoku\\source\\repos\\loginpage(chatapp)\\loginpage(chatapp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17448041-CDF2-4B8D-9906-921E78C44065}|LoginPage(ChatApp)\\LoginPage(ChatApp).csproj|solutionrelative:loginpage(chatapp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17448041-CDF2-4B8D-9906-921E78C44065}|LoginPage(ChatApp)\\LoginPage(ChatApp).csproj|c:\\users\\sgoku\\source\\repos\\loginpage(chatapp)\\loginpage(chatapp)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17448041-CDF2-4B8D-9906-921E78C44065}|LoginPage(ChatApp)\\LoginPage(ChatApp).csproj|solutionrelative:loginpage(chatapp)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17448041-CDF2-4B8D-9906-921E78C44065}|LoginPage(ChatApp)\\LoginPage(ChatApp).csproj|c:\\users\\sgoku\\source\\repos\\loginpage(chatapp)\\loginpage(chatapp)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17448041-CDF2-4B8D-9906-921E78C44065}|LoginPage(ChatApp)\\LoginPage(ChatApp).csproj|solutionrelative:loginpage(chatapp)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17448041-CDF2-4B8D-9906-921E78C44065}|LoginPage(ChatApp)\\LoginPage(ChatApp).csproj|c:\\users\\sgoku\\source\\repos\\loginpage(chatapp)\\loginpage(chatapp)\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17448041-CDF2-4B8D-9906-921E78C44065}|LoginPage(ChatApp)\\LoginPage(ChatApp).csproj|solutionrelative:loginpage(chatapp)\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sgoku\\source\\repos\\LoginPage(ChatApp)\\LoginPage(ChatApp)\\Program.cs",
+              "RelativeDocumentMoniker": "LoginPage(ChatApp)\\Program.cs",
+              "ToolTip": "C:\\Users\\sgoku\\source\\repos\\LoginPage(ChatApp)\\LoginPage(ChatApp)\\Program.cs",
+              "RelativeToolTip": "LoginPage(ChatApp)\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:50:40.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sgoku\\source\\repos\\LoginPage(ChatApp)\\LoginPage(ChatApp)\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LoginPage(ChatApp)\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sgoku\\source\\repos\\LoginPage(ChatApp)\\LoginPage(ChatApp)\\Models\\User.cs",
+              "RelativeToolTip": "LoginPage(ChatApp)\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:39:54.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\sgoku\\source\\repos\\LoginPage(ChatApp)\\LoginPage(ChatApp)\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "LoginPage(ChatApp)\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\sgoku\\source\\repos\\LoginPage(ChatApp)\\LoginPage(ChatApp)\\Models\\UserDto.cs",
+              "RelativeToolTip": "LoginPage(ChatApp)\\Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:38:35.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sgoku\\source\\repos\\LoginPage(ChatApp)\\LoginPage(ChatApp)\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginPage(ChatApp)\\appsettings.json",
+              "ToolTip": "C:\\Users\\sgoku\\source\\repos\\LoginPage(ChatApp)\\LoginPage(ChatApp)\\appsettings.json",
+              "RelativeToolTip": "LoginPage(ChatApp)\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T15:39:13.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\sgoku\\source\\repos\\LoginPage(ChatApp)\\LoginPage(ChatApp)\\Controllers\\UserData.cs",
+              "RelativeDocumentMoniker": "LoginPage(ChatApp)\\Controllers\\UserData.cs",
+              "ToolTip": "C:\\Users\\sgoku\\source\\repos\\LoginPage(ChatApp)\\LoginPage(ChatApp)\\Controllers\\UserData.cs",
+              "RelativeToolTip": "LoginPage(ChatApp)\\Controllers\\UserData.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwKMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:36:16.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
